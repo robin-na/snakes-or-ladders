@@ -1,1 +1,4 @@
-# snakes-or-ladders
+# Snakes or Ladders? A Time-Series Network Analysis of Premodern Korean Civil Examination Data
+
+
+This article introduces a time-series network analytical method we developed for identifying structural changes in a historical database of modest size. Based on the family information provided in the Korean civil examination roster of Joseon dynasty, we construct a family network of approximately 15,000 nodes.  Through time-series the network, we measure the changing degrees of social mobility, both upward and downward, in multiple time scales using a multivariate model of centrality values. The result quantitatively demonstrates what has been discussed in the literatures; the latter Joseon dynasty had significantly lower chances of upward mobility compared to the former and Imjin War with Japan in 1592 was a turning point. We also show the marginal effect of marriage in the perseverance of prestigious status through linear regression of our network data.
